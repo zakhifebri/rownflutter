@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545622238927",
+    "project_id": "rowndivision-ced1a",
+    "storage_bucket": "rowndivision-ced1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545622238927:android:b53641636e4b144e13f9ba",
+        "android_client_info": {
+          "package_name": "com.example.rown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVWbhz2V_vmeO324RAHD-z3mxeNpu5cj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
